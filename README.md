@@ -1,4 +1,4 @@
-### Hey! 👋 Thanks for checking out my GitHub Profile
+## Hey! 👋 Thanks for checking out my GitHub Profile
 
 💻 Most of my repos are from my work as reserch assistant at University of Nebraska-Lincoln || Projects done in the course-work || and Experimenting 
 
@@ -8,6 +8,6 @@
 
 👯 I’m looking to collaborate on anything related to data anlysis, I especillay love eccomerce and sports data.
 
-⚽ I also love watching soccer and discussing about the tactical formations and play style of different team.
+⚽ I also love watching soccer and discussing about the tactical formations and play style of different teams.
 
 📫 Reach me at: aanup113@gmail.com | anup@huskers.unl.edu
