@@ -4,7 +4,7 @@
 
 🔭 I’m actively looking for Summer Internship 2021
 
-🌱 I’m currently learning to use ArcGIS and working on Sption-temporal data.
+🌱 I’m currently learning to use ArcGIS and working on Sption-temporal data as well as building a social unrest anticipation model.
 
 👯 I’m looking to collaborate on anything related to data anlysis, I especillay love eccomerce and sports data.
 
