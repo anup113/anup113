@@ -10,4 +10,4 @@
 
 ⚽ I also love watching soccer and discussing about the tactical formations and play style of different teams.
 
-📫 Reach me at: adhikari.anup64@gmail.com | anup@huskers.unl.edu
+📫 Reach me at: aanup113@gmail.com | anup@huskers.unl.edu
